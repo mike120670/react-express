@@ -1,5 +1,3 @@
-# react-express
-React express backend 
 ## Available Scripts
 
 In the project directory, you can run:
